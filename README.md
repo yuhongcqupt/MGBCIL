@@ -23,5 +23,4 @@ Yan Xian, Hong Yu, Ye Wang and Guoyin Wang. Exploring Multi-Granularity Balance 
 
 ### **State:**
 
-This work has been submitted to the Brain Informatics.
-
+This work has been accepted for publication in Brain Informatics.
